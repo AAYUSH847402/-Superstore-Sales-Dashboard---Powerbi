@@ -6,11 +6,10 @@ The dashboard should include key metrics such as total sales, sales by product, 
 
 It should also provide comparisons of performance to prior years, and allow for drill-down into individual market and products.
 
-##Problem Statement:
+## Problem Statement:
+. Build a Sales Analysis, Product Analysis and Shipping Analysis Dashboard.
 
-Build a Sales Analysis, Product Analysis and Shipping Analysis Dashboard.
+## Tools Used:
 
-##Tools Used:
-
-Microsoft Power BI
+. Microsoft Power BI
 
